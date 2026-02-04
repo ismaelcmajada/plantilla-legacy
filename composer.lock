@@ -1030,12 +1030,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ismaelcmajada/laravel-auto-crud.git",
-                "reference": "13d41f4f67208dffb20746afbd3cabda4ee09b09"
+                "reference": "4950e6a69a476033d664eb3f2238642213dc3373"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ismaelcmajada/laravel-auto-crud/zipball/13d41f4f67208dffb20746afbd3cabda4ee09b09",
-                "reference": "13d41f4f67208dffb20746afbd3cabda4ee09b09",
+                "url": "https://api.github.com/repos/ismaelcmajada/laravel-auto-crud/zipball/4950e6a69a476033d664eb3f2238642213dc3373",
+                "reference": "4950e6a69a476033d664eb3f2238642213dc3373",
                 "shasum": ""
             },
             "require": {
@@ -1074,7 +1074,7 @@
                 "issues": "https://github.com/ismaelcmajada/laravel-auto-crud/issues",
                 "source": "https://github.com/ismaelcmajada/laravel-auto-crud/tree/main"
             },
-            "time": "2026-02-04T16:10:46+00:00"
+            "time": "2026-02-04T16:29:16+00:00"
         },
         {
             "name": "laravel/framework",
